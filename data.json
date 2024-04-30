@@ -1,0 +1,70 @@
+[
+    {
+        "id": 30,
+        "username": "Ruth.Nduta",
+        "email": "ruthnduta891@gmail.com",
+        "messages": [
+            {
+                "receipient_id": 45,
+                "read": false,
+                "user_id": 30
+            },
+            {
+                "receipient_id": 3,
+                "read": false,
+                "user_id": 30
+            },
+            {
+                "receipient_id": 112,
+                "read": false,
+                "user_id": 30
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "username": "Pascaline.Chumba",
+        "email": "pjerono56@gmail.com",
+        "messages": []
+    },
+    {
+        "id": 45,
+        "username": "Josephbill",
+        "email": "josephbill00@gmail.com",
+        "messages": [
+            {
+                "msg_id": 3,
+                "read": true,
+                "user_id": 45
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "username": "Simon.Thuo",
+        "email": "simonthuo85@gmail.com",
+        "messages": []
+    },
+    {
+        "id": 27,
+        "username": "Christine.Kiage",
+        "email": "christinekiage@gmail.com",
+        "messages": [
+            {
+                "msg_id": 45,
+                "read": false,
+                "user_id": 27
+            },
+            {
+                "msg_id": 3,
+                "read": false,
+                "user_id": 27
+            },
+            {
+                "msg_id": 112,
+                "read": false,
+                "user_id": 27
+            }
+        ]
+    }
+]
